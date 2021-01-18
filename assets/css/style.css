@@ -1,5 +1,35 @@
 body {
-   
+   color:rgba(160, 160, 160, 0.748) ;
    
 }
 
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: rgba(160, 160, 160, 0.748);
+    text-decoration: none;
+    text-align: center;
+    /* padding:  25px 25px 25px 25px; */
+}
+a:visited {
+    color: rgba(160, 160, 160, 0.748);
+    text-decoration: none;
+    text-align: center;
+    /* padding: 25px 25px 25px 25px; */
+}
+a:hover {
+    color: orange;
+
+}
+a:active {
+    color: orange;
+}
+
+#logo {
+    text-align: left;
+}
+.cp {
+    font-size: smaller;
+}

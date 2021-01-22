@@ -47,3 +47,13 @@ a:active {
 .cp {
     font-size: smaller;
 }
+
+
+#icn {
+    margin:10px;
+    
+}
+
+a i {
+    padding: 7px;
+}
